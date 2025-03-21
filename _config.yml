@@ -28,7 +28,7 @@ twitter_username: nope
 github_username:  hpglp2
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
